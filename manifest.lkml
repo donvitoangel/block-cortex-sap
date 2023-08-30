@@ -4,7 +4,7 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  value: "GCPGenAI01 PoC "
+  value: "gcpgenai01-poc"
   export: override_required
 }
 
